@@ -1,10 +1,10 @@
 # Site settings
-title:       Mixyll
-email:       hello@saikiransripada.com
-author:      Sai Kiran Sripada
-description: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+title:       Carlos Henrique
+email:       
+author:      Carlos Henrique Prado Sousa
+description: "Compartilhando um pouco do que aprendo todo dia com desenvolvimento de software."
 baseurl:     ""
-url:         "https://mixyll.saikiransripada.com"
+url:         ""
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
@@ -25,10 +25,8 @@ post_preview_image: false
 disqus_shortname:
 
 # Social icons
-github_username: saikiransripada
-twitter_username: wp_user
-linkedin_username: saikiransripada
-dev_username: dev_user
+github_username: chpsousa
+linkedin_username: chpsousa
 
 # Post sharing icons
 show_sharing_icons: true
@@ -59,13 +57,13 @@ text:
     stumbleupon:  'Share on StumbleUpon'
     hackernews:   'Share on Hacker News'
   post:
-    updated:        'Updated'
-    minute_read:    'minute read'
-    related_posts:  'Related Posts'
+    updated:        'Atualizado em'
+    minute_read:    'minutos de leitura'
+    related_posts:  'Posts relacionados'
     post_footer:    'Lorem ipsum'
   index:
     coming_soon: 'Coming soon...'
-  og_locale: 'en_US'
+  og_locale: 'pt-BR'
 
 # Build settings
 markdown:     kramdown
